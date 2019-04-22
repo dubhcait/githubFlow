@@ -7,7 +7,7 @@
 2. `git checkout -b my-new-branch`
      - simultaneously create a new branch and checkout to it :nail_care: 
 
-~work on branch and make changes~
+**work on branch and make changes**
 
 3. `git add [filename(s)]`
     - eg. `git add index.html styles.css`
